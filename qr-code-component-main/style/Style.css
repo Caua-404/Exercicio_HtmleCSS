@@ -1,0 +1,29 @@
+.Fundo {
+    position:absolute;
+    background-color: #a89f9f;  
+    width: 100%;
+    margin-top: 10px;
+}
+
+.Box{
+    background-color: #ffffff;
+    height: 550px;
+    width: 400px;
+    margin-left: 450px;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+
+.QRcode {
+    position: absolute;
+    width: 20%;
+    bottom: 40%;
+    left: 40%;
+}
+
+.Texto{
+    position: absolute;
+    width: 20%;
+    left: 41%;
+    bottom: 15%
+}
