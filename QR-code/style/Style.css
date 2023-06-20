@@ -1,0 +1,50 @@
+:root{
+    --White: hsl(0, 0%, 100%) ;
+    --Lightgray: hsl(212, 45%, 89%); 
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:var(--Lightgray) ;
+    font-family: 'Outfit', sans-serif;
+}
+
+.Fundo{
+    width: 400px ;
+    height: 80vh ;
+    margin-top: 90px;
+    margin-left: 530px;
+    background-color:var(--White) ;
+    border-radius: 15px;
+}
+
+.img {
+    position: absolute;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 50px; 
+}
+
+.texto1 {
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 40px;
+    font-size: 17px;
+}
+
+.texto2 {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 110px;
+    font-size: 17px;
+}
+
+.texto3{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 60px;
+    font-size: 16px;
+    width: 300px;
+}
